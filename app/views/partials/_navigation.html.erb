@@ -1,0 +1,33 @@
+<header>
+    <nav class="be-red white">
+      <ul class="no-list row center-xs middle-xs">
+        <li class="col-md">
+          <h1 clas="no-margin" id="logo">Blog Facilito</h1>  
+        </li>
+        <li class="col-md">
+          <%= link_to "Início", root_path %>  
+        </li>
+        <li class="col-md">
+          Desenho
+        </li>
+        <li class="col-md">
+          Programação
+        </li>
+        <li class="col-md">
+          Tecnologia
+        </li>
+        <% if user_signed_in? %>
+            <li class="col-md">
+                <%= link_to "Sair", destroy_user_session_path, method: :delete %>
+            </li>
+        <% else %>    
+            <li class="col-md">
+                <%= link_to "Login", new_user_session_path %>
+            </li>
+            <li class="col-md">
+                <%= link_to "Registrar", new_user_registration_path %>
+            </li>
+        <% end %>
+      </ul>
+    </nav>
+  </header>

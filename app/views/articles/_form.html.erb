@@ -1,0 +1,24 @@
+<h1><%= name %> artigo</h1>
+
+<div class="be-red white">
+    <ul>
+        <% @article.errors.full_messages.each do |message| %>
+            <li class="top-space">
+                <%= message %>
+            </li>
+        <% end %>
+    </ul>
+</div>
+
+
+<%= form_for(@article) do |f| %>
+    <div class="field">
+        <%= f.text_field :title, placeholder: "Título", class:"form-control" %>
+    </div>
+    <div class="field">
+        <%= f.text_area :body, placeholder: "Escreva aqui o artigo", style: "height:250px;", class:"form-control" %>
+    </div>
+    <div class="field">
+        <%= f.submit "Gravar", class:"btn be-red white" %>
+    </div>
+<% end %>
