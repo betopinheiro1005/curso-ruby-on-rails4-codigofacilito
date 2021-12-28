@@ -1,9 +1,9 @@
 # Curso de Ruby on Rails 4 Desde Cero
 ## CodigoFacilito (Uriel Hernandez)
 
-`Instale as dependências do projeto com o comando:`  
+> `Instale as dependências do projeto com o comando:`  
 
-**bundle install**
+##### bundle install
 
 ### [Vídeos do curso](https://www.youtube.com/watch?v=LMD3P97gXa0&list=PLpOqH6AE0tNiQ-ofrDlbAUSc1r67r_AWv)
 
