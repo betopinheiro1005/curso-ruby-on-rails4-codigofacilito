@@ -6,9 +6,11 @@
 ```bash
 - Ruby 2.3.3  
 - Rails 5.1.3  
+- MySQL 5.7
 ```
 
 ### Instalação de dependências
+
 ```bash
 bundle install
 ```
