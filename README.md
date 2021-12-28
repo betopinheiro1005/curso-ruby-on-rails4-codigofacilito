@@ -5,9 +5,9 @@
 
 ##
 
--Instale as dependências da aplicação executando o comando:  
+-Instale as dependências da aplicação executando, na pasta do projeto, o comando:  
 
-##### `bundle install`  
+### `bundle install`  
 
 ##
 
