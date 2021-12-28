@@ -3,7 +3,7 @@
 
 -Instale as dependências da aplicação executando o comando:  
 
-`bundle install`  
+*`bundle install`*  
 
 ##
 
