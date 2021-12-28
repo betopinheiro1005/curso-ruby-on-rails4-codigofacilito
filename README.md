@@ -3,8 +3,7 @@
 
 `Instale as dependências do projeto com o comando:`  
 
-![bundle install](http://placehold.it/size/background-hex/foreground-hex?text=a123)
-
+<span style="color: red;">bundle install</span>  
 
 ### [Vídeos do curso](https://www.youtube.com/watch?v=LMD3P97gXa0&list=PLpOqH6AE0tNiQ-ofrDlbAUSc1r67r_AWv)
 
