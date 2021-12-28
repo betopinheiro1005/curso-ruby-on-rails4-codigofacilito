@@ -1,6 +1,11 @@
 # Curso de Ruby on Rails 4 Desde Cero
 ## CodigoFacilito (Uriel Hernandez)  
 
+### Requisitos
+
+- Ruby 2.3.3  
+- Rails 5.1.3  
+
 ### Instalação de dependências
 ```bash
 bundle install
