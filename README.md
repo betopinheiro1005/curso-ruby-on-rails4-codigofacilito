@@ -3,8 +3,10 @@
 
 ### Requisitos
 
+```bash
 - Ruby 2.3.3  
 - Rails 5.1.3  
+```
 
 ### Instalação de dependências
 ```bash
