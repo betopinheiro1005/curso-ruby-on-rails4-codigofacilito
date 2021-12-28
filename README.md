@@ -3,7 +3,7 @@
 
 ### [Vídeos do curso](https://www.youtube.com/watch?v=LMD3P97gXa0&list=PLpOqH6AE0tNiQ-ofrDlbAUSc1r67r_AWv)
 
-> `Inicialmente execute **bundle install** para instalar as dependências do projeto`
+> Inicialmente execute **bundle install** para instalar as dependências do projeto
 
 ### Lista de aulas  
 
