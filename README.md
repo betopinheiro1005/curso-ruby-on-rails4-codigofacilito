@@ -1,9 +1,9 @@
 # Curso de Ruby on Rails 4 Desde Cero
 ## CodigoFacilito (Uriel Hernandez)
 
-### [Vídeos do curso](https://www.youtube.com/watch?v=LMD3P97gXa0&list=PLpOqH6AE0tNiQ-ofrDlbAUSc1r67r_AWv)
-
 > Inicialmente execute **bundle install** para instalar as dependências do projeto
+
+### [Vídeos do curso](https://www.youtube.com/watch?v=LMD3P97gXa0&list=PLpOqH6AE0tNiQ-ofrDlbAUSc1r67r_AWv)
 
 ### Lista de aulas  
 
