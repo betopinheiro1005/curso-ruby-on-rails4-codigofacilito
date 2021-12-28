@@ -3,13 +3,13 @@
 
 ### [Vídeos do curso](https://www.youtube.com/watch?v=LMD3P97gXa0&list=PLpOqH6AE0tNiQ-ofrDlbAUSc1r67r_AWv)
 
-##
+### Instalação
 
--Instale as dependências executando, na pasta raiz do projeto, o comando:  
+- Faça o download do arquivo ZIP;
+- Extraia os arquivos para uma pasta qualquer;
+- Acesse essa pasta e rode o comando:
 
-##### `bundle install`  
-
-##
+`bundle install`  
 
 ### Lista de aulas  
 
