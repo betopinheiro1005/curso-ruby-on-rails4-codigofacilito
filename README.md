@@ -1,7 +1,7 @@
 # Curso de Ruby on Rails 4 Desde Cero
 ## CodigoFacilito (Uriel Hernandez)  
 
-## Instalação de dependências
+### Instalação de dependências
 ```bash
 bundle install
 ```
