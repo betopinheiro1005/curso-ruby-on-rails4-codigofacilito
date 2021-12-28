@@ -6,7 +6,11 @@
 bundle install
 ```
 
+##
+
 ### [Vídeos do curso](https://www.youtube.com/watch?v=LMD3P97gXa0&list=PLpOqH6AE0tNiQ-ofrDlbAUSc1r67r_AWv)
+
+##
 
 ### Lista de aulas  
 
